@@ -6,8 +6,8 @@ import "../style/Home.module.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Himanshu_Gautam_Resume",
-  description: "Himanshu Gautam Resume",
+  title: "Anamika_Resume",
+  description: "Anamika Resume",
 }
 
 export default function RootLayout({ children }) {

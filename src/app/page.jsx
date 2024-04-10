@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Himanshu_Gautam_Resume</title>
+        <title>Anamika_Resume</title>
       </Head>
       <main>
         <div className="position-fixed top-0 left-0 w-100">

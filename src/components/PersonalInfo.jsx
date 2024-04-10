@@ -8,8 +8,8 @@ export default function PersonalInfo() {
             <div className="text-md-left">
               <div className="d-flex">
                 <div className="ml-2">
-                  <h1 className="name mb">Himanshu Gautam</h1>
-                  <p className=" h5 m	text-muted">Software Engineer</p>
+                  <h1 className="name mb">Anamika</h1>
+                  <p className=" h5 m	text-muted">Front-End Developer</p>
                 </div>
               </div>
               <div className="mt-1 pl-2">
@@ -25,8 +25,8 @@ export default function PersonalInfo() {
                     </svg>
                   </span>
                   <span className="text-monospace smaller">
-                    <a className="text-dark normal-font" href="tel:7505981810">
-                      7505981810{" "}
+                    <a className="text-dark normal-font" href="tel:7398045285">
+                      7398045285{" "}
                     </a>
                   </span>
                 </span>
@@ -45,9 +45,9 @@ export default function PersonalInfo() {
                   <span>
                     <a
                       className="text-monospace normal-font text-dark"
-                      href="mailto:himanshu.gautam.code@gmail.com"
+                      href="mailto:anamikagautam1603@gmail.com"
                     >
-                      himanshu.gautam.code@gmail.com
+                     anamikagautam1603@gmail.com
                     </a>
                   </span>
                 </span>
@@ -66,7 +66,7 @@ export default function PersonalInfo() {
                   <span className="text-monospace normal-font">
                     <a
                       target="blank"
-                      href="https://www.linkedin.com/in/01himanshugautam/"
+                      href="https://www.linkedin.com/in/anamika-kumari-b64323228/"
                     >
                       Linkedin{" "}
                     </a>
@@ -84,7 +84,7 @@ export default function PersonalInfo() {
                   <span className="text-monospace normal-font">
                     <a
                       target="blank"
-                      href="https://www.github.com/01himanshugautam/"
+                      href="https://github.com/anamikagautam1603/"
                     >
                       {" "}
                       GitHub{" "}
@@ -95,10 +95,10 @@ export default function PersonalInfo() {
 
               <div className="mt-1 pt-2">
                 <p>
-                  Passionate about coding since I was young, I quickly pick up
-                  new tech skills. I love startups and enjoy building things
-                  from scratch. I thrive in fast-paced environments where
-                  creativity and innovation are valued.
+                  Hi, my name is Anamika and I am a web developer.With a strong passion for design and coding.
+                  A responsive website built with HTML,CSS,and Javascript. It showcases my skills in front-end development.
+                  A motivated computer science student seeking anopportunity to apply my skills and knowledge in a dynamic and innovative company.
+
                 </p>
               </div>
             </div>

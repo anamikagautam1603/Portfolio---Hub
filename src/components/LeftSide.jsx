@@ -24,7 +24,7 @@ export default function LeftSide() {
           <div className="d-flex justify-content-between">
             <span className="small">Current Location</span>
             <span className="normal-font" style={{ fontSize: "14px" }}>
-              <b>Gurugram</b>
+              <b>Bareilly</b>
             </span>
           </div>
         </div>

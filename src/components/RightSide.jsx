@@ -20,153 +20,112 @@ export default function RightSide() {
         </h3>
         <div className="p-1">
           <div className="d-flex justify-content-between">
-            <h5 className="text-dark m-0">Sr. Associate Engineer </h5>
+            <h5 className="text-dark m-0">Software-Engineering Trainee</h5>
             <span className="d-flex align-items-center">
-              <CalenderIcon></CalenderIcon>
-              <span className="ml-2 normal-font">10/2022 - Ongoing </span>
+              {/* <CalenderIcon></CalenderIcon>
+              <span className="ml-2 normal-font">10/2022 - Ongoing </span> */}
             </span>
           </div>
           <div className="d-flex mt-1 justify-content-between">
             <p className="m-0 normal-font">
-              <i>1K Networks - Gurugram</i>
+              <i>Video to Pdf Converter (Major Project)</i>
             </p>
           </div>
           <ul className="mt-2 normal-font pl-4">
             <li className="mt-1" style={{ fontSize: "14px" }}>
-              Developed and deployed a multi-region, multilingual website using
-              Node.js, MySQL, and Docker from scratch, driving a significant
-              surge in website traffic.
+              Developed "Video To PDF Converter App" using flutter.
+              Created a user-friendly interface for easy video to PDF conversion.
+
             </li>
             <li className="mt-1" style={{ fontSize: "14px" }}>
-              Collaborated on the creation of user-friendly APIs for a retail
-              POS system, significantly reducing customer complaints.
+             Integrated video processing libaries for seamless video manipulation and
+             conversion.
             </li>
             <li className="mt-1" style={{ fontSize: "14px" }}>
-              Introduced Redis caching, resulting in a substantial improvement
-              in API performance and customer satisfaction.
+              Utilized PDF generation tools to generate high-quality PDF files from video.
+            </li>
+
+            <li className="mt-1" style={{ fontSize: "14px" }}>
+             Collaborated with a team to deliver a polished and functional app.
             </li>
             <li className="mt-1" style={{ fontSize: "14px" }}>
-              Orchestrated Nginx load balancing for Node.js, significantly
-              enhancing performance for over 5000 concurrent users and boosting
-              user retention.
+              Recived positive user feedback for performance and usability.
+
             </li>
-            <li className="mt-1" style={{ fontSize: "14px" }}>
-              Engineered the integration of Kapture CRM software, resulting in a
-              noticeable increase in customer engagement.
-            </li>
+            
           </ul>
         </div>
 
         <div className="mt-0 p-1 ">
           <div className="d-flex justify-content-between">
-            <h5 className="text-dark m-0">Software Engineer</h5>
+            <h5 className="text-dark m-0">Software-Engineering Trainee</h5>
             <span className="d-flex align-items-center">
-              <CalenderIcon></CalenderIcon>
-              <span className="ml-2 normal-font">12/2021 - 09/2022 </span>
+              {/* <CalenderIcon></CalenderIcon>
+              <span className="ml-2 normal-font">12/2021 - 09/2022 </span> */}
             </span>
           </div>
           <div className="d-flex mt-1 justify-content-between">
             <p className="m-0 ">
-              <i>1K Networks - Gurugram</i>
+              <i>Spell Checker (Minor Project)</i>
             </p>
           </div>
 
           <ul className="mt-2 normal-font pl-4">
             <li className="mt-1" style={{ fontSize: "14px" }}>
-              Spearheaded the transition from monolithic to microservices
-              architecture, resulting in a dramatic decrease in system downtime.
+              Developed a spell checker program in Python that accurately detects
+              and suggests corrections for spelling errors in text document.
+
             </li>
 
             <li className="mt-1" style={{ fontSize: "14px" }}>
-              Designed a flexible communication system for seamless messaging
-              via texts, emails, and notifications, leading to a significant
-              increase in user engagement.
+              Implemented advanced algorithms and data structures to efficently process
+              large volumes of text and provide real-time spell checking.
             </li>
 
             <li className="mt-1" style={{ fontSize: "14px" }}>
-              Upgraded App Component Version with dynamic data retrieval and
-              rendering, markedly enhancing functionality and user experience.
+              Collaborated with a team of linguists to enhance the program's language coverage
+              and accuracy.
             </li>
             <li className="mt-1" style={{ fontSize: "14px" }}>
-              Crafted front-end logic using JavaScript and Next.js, resulting in
-              a remarkable improvement in user interaction and reduced bounce
-              rate.
+              Recieved positive user feedback and achieved a high accuracy rate in spell checking.
             </li>
 
-            <li className="mt-1" style={{ fontSize: "14px" }}>
-              Devised a loyalty points feature, achieving notable increases in
-              user engagement and customer retention.
-            </li>
           </ul>
         </div>
 
         <div className="mt-0 p-1  ">
           <div className="d-flex justify-content-between">
-            <h5 className=" m-0 text-dark">Flutter Developer</h5>
+            <h5 className=" m-0 text-dark">Software-Engineering Trainee</h5>
             <span className="d-flex align-items-center">
-              <CalenderIcon></CalenderIcon>
-              <span className="ml-2 normal-font">06/2021- 10/2021</span>
+              {/* <CalenderIcon></CalenderIcon>
+              <span className="ml-2 normal-font">06/2021- 10/2021</span> */}
             </span>
           </div>
           <div className="d-flex mt-1 justify-content-between">
             <p className="m-0 normal-font ">
-              <i> Native Developers - Noida </i>
+              <i> Telegram Clone </i>
             </p>
           </div>
 
           <ul className="mt-2 normal-font pl-4">
             <li>
-              Authored an educational app for Dexito, garnering significant
-              downloads within a short period.
+             Developed a fully functional messaging application using HTML, CSS, and JavaScript.
+
             </li>
             <li className="mt-1" style={{ fontSize: "14px" }}>
-              Enhanced app performance and user satisfaction through code
-              optimization and UI refinement, leading to a decrease in app
-              uninstallations
+             Implemented features such as a user authentication, real-time messaging, and encryption.
+
             </li>
             <li className="mt-1" style={{ fontSize: "14px" }}>
-              Integrated Rest API, significantly reducing loading times and
-              improving data accuracy, resulting in higher user retention.
+              Collaborated with designers and developers to ensure a seamless user experience.
             </li>
             <li className="mt-1" style={{ fontSize: "14px" }}>
-              Implemented optimized state management techniques, leading to a
-              noticeable decrease in app crashes and an overall improvement in
-              user experience
+             Optimized the code to improve performance and responsiveness.
+
             </li>
           </ul>
         </div>
 
-        <div className="mt-0 p-1  ">
-          <div className="d-flex justify-content-between">
-            <h5 className=" m-0 text-dark">Flutter Developer</h5>
-            <span className="d-flex align-items-center">
-              <CalenderIcon></CalenderIcon>
-              <span className="ml-2 normal-font">10/2020- 10/2021</span>
-            </span>
-          </div>
-          <div className="d-flex mt-1 justify-content-between">
-            <p className="m-0 normal-font ">
-              <i> Virtual Lab Development (IIT Roorkee)</i>
-            </p>
-          </div>
-
-          <ul className="mt-2 normal-font pl-4">
-            <li>
-              Directed the development of the &quot;Hybrid Analog and Digital
-              Electronics Lab&quot; simulation in collaboration with MJP
-              Rohilkhand University and Virtual Lab Development at IIT Roorkee,
-              resulting in increased student engagement.
-            </li>
-            <li className="mt-1" style={{ fontSize: "14px" }}>
-              Conducted user testing and feedback sessions to refine interface
-              designs, significantly improving user retention.
-            </li>
-            <li className="mt-1" style={{ fontSize: "14px" }}>
-              Designed and implemented user-friendly interfaces, enhancing
-              overall user satisfaction.
-            </li>
-          </ul>
-        </div>
       </div>
     </div>
   )

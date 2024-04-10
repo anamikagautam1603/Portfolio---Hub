@@ -16,7 +16,7 @@ export default function PrintComponent() {
   return (
     <div>
       <Head>
-        <title>Himanshu_Gautam_Resume</title>
+        <title>Anamika_Resume</title>
       </Head>
       <main>
         <div className="page mt-0 ">

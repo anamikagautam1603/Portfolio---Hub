@@ -15,15 +15,16 @@ export default function Education() {
             <span>
               <b>-</b> B.Tech (Computer Science)
             </span>
-            <span>2018-2022</span>
+            <span>2021-2025</span>
           </div>
         </div>
 
         <div className="mb-2">
           <div className="d-flex justify-content-between">
-            <b>&bull; Global Inter College, Narayanpur</b>
+            <b>&bull; R.N.Public School </b>
             <div>
-              <b>-</b> Rampur
+              <b>-</b> Varanasi
+
             </div>
           </div>
 
@@ -31,22 +32,23 @@ export default function Education() {
             <span>
               <b>-</b> XII
             </span>
-            <span>2016-2018</span>
+            <span>2020-2021</span>
           </div>
         </div>
 
         <div className="mb-2">
           <div className="d-flex justify-content-between">
-            <b>&bull; R P S Higher Secondary School</b>
+            <b>&bull; R.N.Public School </b>
             <div>
-              <b>-</b> Rampur
+              <b>-</b> Varanasi
+
             </div>
           </div>
           <div className="mb-2 d-flex justify-content-between">
             <span>
               <b>-</b> X
             </span>
-            <span>2014-2016</span>
+            <span>2018-2019</span>
           </div>
         </div>
       </div>
