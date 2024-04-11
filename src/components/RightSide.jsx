@@ -103,7 +103,7 @@ export default function RightSide() {
           </div>
           <div className="d-flex mt-1 justify-content-between">
             <p className="m-0 normal-font ">
-              <i> Telegram Clone </i>
+              <i>Telegram Clone</i>
             </p>
           </div>
 
