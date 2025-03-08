@@ -8,9 +8,7 @@ export default function LeftSide() {
       style={{ background: "#f2f5ff" }}
       className="col-md-5 overflow-hidden rounded col-4"
     >
-      <Education />
-      <Skills />
-      <Achievement />
+
 
       <div className="mt-4">
         <h3 className="title h6  text-uppercase">Personal Info.</h3>

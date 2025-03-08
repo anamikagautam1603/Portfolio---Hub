@@ -95,9 +95,12 @@ export default function PersonalInfo() {
 
               <div className="mt-1 pt-2">
                 <p>
-                  Hi, my name is Anamika and I am a web developer.With a strong passion for design and coding.
-                  A responsive website built with HTML,CSS,and Javascript. It showcases my skills in front-end development.
-                  A motivated computer science student seeking anopportunity to apply my skills and knowledge in a dynamic and innovative company.
+                 Hi, I'm Anamika!
+                  I'm a web developer with a strong passion for design and coding.
+                  I specialize in building responsive websites using HTML, CSS, and
+                  JavaScript, showcasing my expertise in front-end development.As a motivated computer science student,
+                  I'm eager to apply my skills and knowledge in a dynamic and innovative company.
+                  I strive to create unique, professional, and user-friendly digital experiences.
 
                 </p>
               </div>

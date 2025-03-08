@@ -1,3 +1,7 @@
+import Achievement from "./Achievement"
+import Education from "./Education"
+import Skills from "./Skills"
+
 const CalenderIcon = () => {
   return (
     <svg
@@ -13,86 +17,11 @@ const CalenderIcon = () => {
 
 export default function RightSide() {
   return (
-    <div className="col-md-7 overflow-hidden col-8 ">
+    <div className="md-7 overflow-hidden col-12">
       <div className="">
         <h3 className="title mt-4  h6  text-muted text-uppercase ">
           Work Experience
         </h3>
-        <div className="p-1">
-          <div className="d-flex justify-content-between">
-            <h5 className="text-dark m-0">Software-Engineering Trainee</h5>
-            <span className="d-flex align-items-center">
-              {/* <CalenderIcon></CalenderIcon>
-              <span className="ml-2 normal-font">10/2022 - Ongoing </span> */}
-            </span>
-          </div>
-          <div className="d-flex mt-1 justify-content-between">
-            <p className="m-0 normal-font">
-              <i>Video to Pdf Converter (Major Project)</i>
-            </p>
-          </div>
-          <ul className="mt-2 normal-font pl-4">
-            <li className="mt-1" style={{ fontSize: "14px" }}>
-              Developed "Video To PDF Converter App" using flutter.
-              Created a user-friendly interface for easy video to PDF conversion.
-
-            </li>
-            <li className="mt-1" style={{ fontSize: "14px" }}>
-             Integrated video processing libaries for seamless video manipulation and
-             conversion.
-            </li>
-            <li className="mt-1" style={{ fontSize: "14px" }}>
-              Utilized PDF generation tools to generate high-quality PDF files from video.
-            </li>
-
-            <li className="mt-1" style={{ fontSize: "14px" }}>
-             Collaborated with a team to deliver a polished and functional app.
-            </li>
-            <li className="mt-1" style={{ fontSize: "14px" }}>
-              Recived positive user feedback for performance and usability.
-
-            </li>
-            
-          </ul>
-        </div>
-
-        <div className="mt-0 p-1 ">
-          <div className="d-flex justify-content-between">
-            <h5 className="text-dark m-0">Software-Engineering Trainee</h5>
-            <span className="d-flex align-items-center">
-              {/* <CalenderIcon></CalenderIcon>
-              <span className="ml-2 normal-font">12/2021 - 09/2022 </span> */}
-            </span>
-          </div>
-          <div className="d-flex mt-1 justify-content-between">
-            <p className="m-0 ">
-              <i>Spell Checker (Minor Project)</i>
-            </p>
-          </div>
-
-          <ul className="mt-2 normal-font pl-4">
-            <li className="mt-1" style={{ fontSize: "14px" }}>
-              Developed a spell checker program in Python that accurately detects
-              and suggests corrections for spelling errors in text document.
-
-            </li>
-
-            <li className="mt-1" style={{ fontSize: "14px" }}>
-              Implemented advanced algorithms and data structures to efficently process
-              large volumes of text and provide real-time spell checking.
-            </li>
-
-            <li className="mt-1" style={{ fontSize: "14px" }}>
-              Collaborated with a team of linguists to enhance the program's language coverage
-              and accuracy.
-            </li>
-            <li className="mt-1" style={{ fontSize: "14px" }}>
-              Recieved positive user feedback and achieved a high accuracy rate in spell checking.
-            </li>
-
-          </ul>
-        </div>
-
         <div className="mt-0 p-1  ">
           <div className="d-flex justify-content-between">
             <h5 className=" m-0 text-dark">Software-Engineering Trainee</h5>
@@ -127,6 +56,72 @@ export default function RightSide() {
         </div>
 
       </div>
+      <div>
+        <h3 className="title h6 mt-0 text-uppercase ">Projects</h3>
+                <div className="p-1">
+          <div className="d-flex justify-content-between">
+            <h5 className="text-dark m-0">Software-Engineering Trainee</h5>
+            <span className="d-flex align-items-center">
+              {/* <CalenderIcon></CalenderIcon>
+              <span className="ml-2 normal-font">10/2022 - Ongoing </span> */}
+            </span>
+          </div>
+          <div className="d-flex mt-1 justify-content-between">
+            <p className="m-0 normal-font">
+              <i> Weather App </i>
+            </p>
+          </div>
+          <ul className="mt-2 normal-font pl-4">
+            <li className="mt-1" style={{ fontSize: "14px" }}>
+             Developed a real-time weather application that fetches weather data using the OpenWeather API.
+
+            </li>
+            <li className="mt-1" style={{ fontSize: "14px" }}>
+            Implemented dynamic UI updates based on user location and search queries.
+            </li>
+            <li className="mt-1" style={{ fontSize: "14px" }}>
+             Integrated local storage to save user preferences for seamless experience.
+            </li>
+
+            
+          </ul>
+        </div>
+
+        <div className="mt-0 p-1 ">
+          <div className="d-flex justify-content-between">
+            <h5 className="text-dark m-0">Software-Engineering Trainee</h5>
+            <span className="d-flex align-items-center">
+              {/* <CalenderIcon></CalenderIcon>
+              <span className="ml-2 normal-font">12/2021 - 09/2022 </span> */}
+            </span>
+          </div>
+          <div className="d-flex mt-1 justify-content-between">
+            <p className="m-0 ">
+              <i>Tic-Tac-Toe Game</i>
+            </p>
+          </div>
+
+          <ul className="mt-2 normal-font pl-4">
+            <li className="mt-1" style={{ fontSize: "14px" }}>
+             Built an interactive, responsive Tic-Tac-Toe game with real-time game logic.
+
+            </li>
+
+            <li className="mt-1" style={{ fontSize: "14px" }}>
+             Implemented winner detection using JavaScript algorithms and animations for an engaging user experience.
+            </li>
+
+            <li className="mt-1" style={{ fontSize: "14px" }}>
+              Optimized for both desktop and mobile devices using CSS media queries.
+            </li>
+            
+
+          </ul>
+        </div>
+      </div>
+      <Education />
+      <Skills />
+      <Achievement />
     </div>
   )
 }
