@@ -97,8 +97,8 @@ export default function PersonalInfo() {
                 <p>
                  Hi, I'm Anamika!
                   I'm a web developer with a strong passion for design and coding.
-                  I specialize in building responsive websites using HTML, CSS, and
-                  JavaScript, showcasing my expertise in front-end development.As a motivated computer science student,
+                  I specialize in building responsive websites using HTML, CSS,
+                  JavaScript, and React.js showcasing my expertise in front-end development.As a motivated computer science student,
                   I'm eager to apply my skills and knowledge in a dynamic and innovative company.
                   I strive to create unique, professional, and user-friendly digital experiences.
 

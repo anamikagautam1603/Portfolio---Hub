@@ -32,7 +32,12 @@ export default function RightSide() {
           </div>
           <div className="d-flex mt-1 justify-content-between">
             <p className="m-0 normal-font ">
-              <i>Telegram Clone</i>
+              <i>Telegram Clone <a
+                      target="blank"
+                      href="https://github.com/anamikagautam1603/Clone-a-Website"
+                    >
+                      Link {" "}
+                    </a> </i>
             </p>
           </div>
 
@@ -68,7 +73,13 @@ export default function RightSide() {
           </div>
           <div className="d-flex mt-1 justify-content-between">
             <p className="m-0 normal-font">
-              <i> Weather App </i>
+              <i> Weather App &nbsp;
+                <a
+                      target="blank"
+                      href="https://github.com/anamikagautam1603/Weather-App"
+                    >
+                      Link {" "}
+                    </a></i>
             </p>
           </div>
           <ul className="mt-2 normal-font pl-4">
@@ -97,7 +108,14 @@ export default function RightSide() {
           </div>
           <div className="d-flex mt-1 justify-content-between">
             <p className="m-0 ">
-              <i>Tic-Tac-Toe Game</i>
+              <i>Tic-Tac-Toe Game &nbsp;
+                   <a
+                      target="blank"
+                      href="https://github.com/anamikagautam1603/Tic-Tac-Toe-Game"
+                    >
+                      Link {" "}
+                    </a>
+              </i>
             </p>
           </div>
 

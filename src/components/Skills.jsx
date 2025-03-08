@@ -31,7 +31,7 @@
 // }
 export default function Skills() {
   const skills = [
-    { category: "Frontend", items: ["HTML5", "CSS3", "JavaScript (ES6+)"] },
+    { category: "Frontend", items: ["HTML5", "CSS3", "JavaScript (ES6+), React.js"] },
     { category: "Frameworks & Libraries", items: ["Bootstrap", "Tailwind CSS"] },
     { category: "Version Control", items: ["Git", "GitHub"] },
     { category: "Problem-Solving & Debugging", items: ["Chrome DevTools", "Console Debugging"] },
