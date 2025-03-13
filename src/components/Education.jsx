@@ -30,7 +30,7 @@ export default function Education() {
 
           <div className="mb-2 d-flex justify-content-between">
             <span>
-              <b>-</b> XII
+              <b>-</b> XII  
             </span>
             <span>2020-2021</span>
           </div>

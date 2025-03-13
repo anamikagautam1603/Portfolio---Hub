@@ -9,7 +9,7 @@ export default function PersonalInfo() {
               <div className="d-flex">
                 <div className="ml-2">
                   <h1 className="name mb">Anamika</h1>
-                  <p className=" h5 m	text-muted">Front-End Developer</p>
+                  <p className=" h5 m	text-muted">Backend Developer</p>
                 </div>
               </div>
               <div className="mt-1 pl-2">
@@ -94,13 +94,19 @@ export default function PersonalInfo() {
               </div>
 
               <div className="mt-1 pt-2">
-                <p>
+                {/* <p>
                  Hi, I'm Anamika!
                   I'm a web developer with a strong passion for design and coding.
                   I specialize in building responsive websites using HTML, CSS,
-                  JavaScript, and React.js showcasing my expertise in front-end development.As a motivated computer science student,
+                  JavaScript, and React.js showcasing my expertise in front-end development. As a motivated computer science student,
                   I'm eager to apply my skills and knowledge in a dynamic and innovative company.
                   I strive to create unique, professional, and user-friendly digital experiences.
+                </p> */}
+                Passionate about building efficient, scalable, and secure server-side applications.
+                Proficient in Node.js, Express.js, MongoDB and MySQL, with experience in RESTful APIs,
+                authentication, and database management. Strong problem-solving skills and a keen interest
+                in optimizing backend performance.
+                <p>
 
                 </p>
               </div>

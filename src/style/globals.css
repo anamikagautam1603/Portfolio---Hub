@@ -13,7 +13,7 @@
   position: relative;
   z-index: -1;
   background: -o-linear-gradient(300deg, #7795f8 15%, #6772e5 70%, #555abf 94%);
-  background: linear-gradient(150deg, #7795f8 15%, #6772e5 70%, #555abf 94%);
+  background: linear-gradient(150deg, #394672 15%, #393d68 70%, #444672 94%);
 }
 
 .martrimonial {
@@ -115,7 +115,7 @@
 }
 
 .name {
-  color: #7795f8;
+  color: #09206a;
 }
 
 .bg-gradient-warning {

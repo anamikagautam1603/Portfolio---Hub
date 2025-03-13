@@ -31,10 +31,13 @@
 // }
 export default function Skills() {
   const skills = [
-    { category: "Frontend", items: ["HTML5", "CSS3", "JavaScript (ES6+), React.js"] },
-    { category: "Frameworks & Libraries", items: ["Bootstrap", "Tailwind CSS"] },
+    { category: "Backend", items: ["JavaScript","NodeJs","ExpressJs"] },
+    { category: "Frontend", items: ["HTML", "CSS", "JavaScript","Flutter","Bootstrap", "Tailwind CSS"] },
+    { category: "Database", items: ["MySQL", "MongoDB"] },
     { category: "Version Control", items: ["Git", "GitHub"] },
     { category: "Problem-Solving & Debugging", items: ["Chrome DevTools", "Console Debugging"] },
+    
+   
   ];
 
   return (

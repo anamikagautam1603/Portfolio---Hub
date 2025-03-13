@@ -24,65 +24,55 @@ export default function RightSide() {
         </h3>
         <div className="mt-0 p-1  ">
           <div className="d-flex justify-content-between">
-            <h5 className=" m-0 text-dark">Software-Engineering Trainee</h5>
+            <h5 className=" m-0 text-dark">Software-Engineering </h5>
             <span className="d-flex align-items-center">
-              {/* <CalenderIcon></CalenderIcon>
-              <span className="ml-2 normal-font">06/2021- 10/2021</span> */}
+              <CalenderIcon></CalenderIcon>
+              <span className="ml-2 normal-font">06/2024- 07/2024</span>
             </span>
-          </div>
-          <div className="d-flex mt-1 justify-content-between">
+          </div> 
+           <div className="d-flex mt-1 justify-content-between">
             <p className="m-0 normal-font ">
-              <i>Telegram Clone <a
+              <i>UTS-Mobile-App &nbsp;
+              <a
                       target="blank"
-                      href="https://github.com/anamikagautam1603/Clone-a-Website"
+                      href="https://github.com/anamikagautam1603/UTS-Mobile-App"
                     >
-                      Link {" "}
+                      {/* Link {" "} */}
                     </a> </i>
             </p>
           </div>
-
           <ul className="mt-2 normal-font pl-4">
             <li>
-             Developed a fully functional messaging application using HTML, CSS, and JavaScript.
-
+             Developed a cross-platform mobile application using Flutter for seamless unreserved railway ticket booking.
             </li>
             <li className="mt-1" style={{ fontSize: "14px" }}>
-             Implemented features such as a user authentication, real-time messaging, and encryption.
-
+            Integrated real-time ticket generation and QR-based validation for easy and secure travel.
             </li>
             <li className="mt-1" style={{ fontSize: "14px" }}>
-              Collaborated with designers and developers to ensure a seamless user experience.
+             Integrated Google Maps API, PNR tracking, and Firebase authentication.
             </li>
             <li className="mt-1" style={{ fontSize: "14px" }}>
-             Optimized the code to improve performance and responsiveness.
-
+            Optimized UI/UX with state management, improving speed and user convenience.
             </li>
           </ul>
         </div>
-
       </div>
-      <div>
-        <h3 className="title h6 mt-0 text-uppercase ">Projects</h3>
+
+
+       <h3 className="title h6 mt-0 text-uppercase ">Projects</h3> 
                 <div className="p-1">
           <div className="d-flex justify-content-between">
-            <h5 className="text-dark m-0">Software-Engineering Trainee</h5>
+            <h5 className="text-dark m-0"> Weather App </h5>
             <span className="d-flex align-items-center">
-              {/* <CalenderIcon></CalenderIcon>
-              <span className="ml-2 normal-font">10/2022 - Ongoing </span> */}
+              <CalenderIcon></CalenderIcon>
+              <span className="ml-2 normal-font"> 05/2024 - 08/2024 </span>
             </span>
           </div>
-          <div className="d-flex mt-1 justify-content-between">
-            <p className="m-0 normal-font">
-              <i> Weather App &nbsp;
-                <a
-                      target="blank"
-                      href="https://github.com/anamikagautam1603/Weather-App"
-                    >
-                      Link {" "}
-                    </a></i>
-            </p>
-          </div>
-          <ul className="mt-2 normal-font pl-4">
+        <ul className="mt-2 normal-font pl-4">
+          <li className="mt-1" style={{ fontSize: "14px" }}>
+             Use Node.js with Express.js for the backend, and integrate OpenWeather API or WeatherAPI for real-time data.
+          </li>
+
             <li className="mt-1" style={{ fontSize: "14px" }}>
              Developed a real-time weather application that fetches weather data using the OpenWeather API.
 
@@ -96,47 +86,37 @@ export default function RightSide() {
 
             
           </ul>
-        </div>
+      </div>
 
-        <div className="mt-0 p-1 ">
+     <div className="mt-0 p-1  ">
           <div className="d-flex justify-content-between">
-            <h5 className="text-dark m-0">Software-Engineering Trainee</h5>
+            <h5 className=" m-0 text-dark">E-Commerce Platform</h5>
             <span className="d-flex align-items-center">
-              {/* <CalenderIcon></CalenderIcon>
-              <span className="ml-2 normal-font">12/2021 - 09/2022 </span> */}
-            </span>
-          </div>
-          <div className="d-flex mt-1 justify-content-between">
-            <p className="m-0 ">
-              <i>Tic-Tac-Toe Game &nbsp;
-                   <a
-                      target="blank"
-                      href="https://github.com/anamikagautam1603/Tic-Tac-Toe-Game"
-                    >
-                      Link {" "}
-                    </a>
-              </i>
+              <CalenderIcon></CalenderIcon>
+              <span className="ml-2 normal-font">09/2024- 05/2025</span>
+          </span>
+          
+          </div> 
+           <div className="d-flex mt-1 justify-content-between">
+            <p className="m-0 normal-font ">
+             
             </p>
           </div>
-
           <ul className="mt-2 normal-font pl-4">
-            <li className="mt-1" style={{ fontSize: "14px" }}>
-             Built an interactive, responsive Tic-Tac-Toe game with real-time game logic.
-
+            <li>
+             Developed a full-stack e-commerce app with JWT authentication.
             </li>
-
             <li className="mt-1" style={{ fontSize: "14px" }}>
-             Implemented winner detection using JavaScript algorithms and animations for an engaging user experience.
+             Implemented CRUD operations for products and orders. Integrated PayPal/Stripe for secure payments.
             </li>
-
             <li className="mt-1" style={{ fontSize: "14px" }}>
-              Optimized for both desktop and mobile devices using CSS media queries.
+              Built an admin dashboard for product and order management. Designed a responsive UI using Tailwind CSS/Bootstrap.
             </li>
-            
-
+            <li className="mt-1" style={{ fontSize: "14px" }}>
+            Used Node.js, Express.js, and MongoDB/MySQL for backend development.
+            </li>
           </ul>
         </div>
-      </div>
       <Education />
       <Skills />
       <Achievement />
