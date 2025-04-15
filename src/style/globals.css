@@ -184,9 +184,11 @@
 }
 
 @media print {
-  body {
-    -webkit-print-color-adjust: exact;
-  }
+ body {
+  -webkit-print-color-adjust: exact; 
+  print-color-adjust: exact;         
+  
+}
 
   .hide-print {
     display: none !important;

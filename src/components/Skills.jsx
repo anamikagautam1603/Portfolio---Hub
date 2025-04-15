@@ -7,10 +7,10 @@
 //           className="mt-2 normal-font pl-3 skill-point"
 //           style={{ fontSize: "13px" }}
 //         >
-//           {/* <li className="mb-1">
-//             <b>Backend</b>: NodeJs, Laravel, TypeScript ,JavaScript Dart, MySQL,
-//             PSQL, MongoDb, Firebase
-//           </li> */}
+          {/* <li className="mb-1">
+            <b>Backend</b>: NodeJs, Laravel, TypeScript ,JavaScript Dart, MySQL,
+            PSQL, MongoDb, Firebase
+          </li> */}
 //           {/* <li className="mb-1">
 //             <b>Infrastructure</b>: AWS, Docker, Kafka, RabbitMq ,System Design
 //           </li> */}
@@ -31,9 +31,9 @@
 // }
 export default function Skills() {
   const skills = [
-    { category: "Backend", items: ["JavaScript","NodeJs","ExpressJs"] },
-    { category: "Frontend", items: ["HTML", "CSS", "JavaScript","Flutter","Bootstrap", "Tailwind CSS"] },
-    { category: "Database", items: ["MySQL", "MongoDB"] },
+    { category: "Backend", items: ["JavaScript","NodeJs","ExpressJs",] },
+    { category: "Frontend", items: ["HTML", "CSS", "JavaScript","Bootstrap", "Tailwind CSS"] },
+    { category: "Database", items: ["MySQL", "MongoDB","Firebase"] },
     { category: "Version Control", items: ["Git", "GitHub"] },
     { category: "Problem-Solving & Debugging", items: ["Chrome DevTools", "Console Debugging"] },
     
